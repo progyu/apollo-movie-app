@@ -1,0 +1,8 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Move API with Graphql",
+  "main": "index.js",
+  "author": "progyu<rocket7101@gmail.com>",
+  "license": "MIT"
+}
