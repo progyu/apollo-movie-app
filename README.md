@@ -24,3 +24,8 @@ $ yarn start
 $ yarn install
 $ yarn start
 ```
+
+
+## Reference
+- [nomadcoders movie api](https://nomadcoders.co/graphql-for-beginners)
+- [nomadcoders movie app](https://nomadcoders.co/react-graphql-for-beginners)
